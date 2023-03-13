@@ -1,7 +1,7 @@
 
 # Make-Notes Webapp
 
-The Make-Notes Webapp is a React-based web application that allows users to create, edit, and delete notes. The application currently uses createPortal and useState to provide a smooth user experience. This README file will guide you through the process of adding a login feature to the backend of the application
+The Make-Notes Webapp is a React-based web application that allows users to create, edit, and delete notes. The application currently uses createPortal and useState to provide a smooth user experience. This README file will guide you about the overview of the application
 
 ## Getting Started
 
