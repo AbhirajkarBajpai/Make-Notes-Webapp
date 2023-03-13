@@ -13,7 +13,7 @@ To get started with the Make-Notes Webapp, you'll need to have Node.js and npm i
 To deploy this project run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/make-notes-webapp.git
+git clone https://github.com/AbhirajkarBajpai/Make-Notes-Webapp.git
 cd make-notes-webapp
 npm install
 ```
