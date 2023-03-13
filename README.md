@@ -14,7 +14,7 @@ To deploy this project run
 
 ```bash
 git clone https://github.com/AbhirajkarBajpai/Make-Notes-Webapp.git
-cd make-notes-webapp
+cd Make-Notes-Webapp
 npm install
 ```
 ```bash
